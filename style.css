@@ -6,3 +6,6 @@
     align-items: center;
     text-align: center;
 }
+#project-cards {
+    justify-content: center;
+}
