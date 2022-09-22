@@ -1,11 +1,13 @@
 #navbar {
     padding-left: 12.5%;
+    padding-right: 10%;
 }
-.divider {
-    justify-content: center;
-    align-items: center;
-    text-align: center;
+
+.card {
+    max-width: fit-content;
 }
+
 #project-cards {
+    display: flex;
     justify-content: center;
 }
